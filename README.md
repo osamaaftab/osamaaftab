@@ -38,7 +38,8 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 
-<!--START_SECTION:waka--><!--END_SECTION:waka-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 [![Osama's GitHub stats](https://github-readme-stats.vercel.app/api?username=osamaaftab)](https://github.com/osamaaftab/github-readme-stats) 
 
