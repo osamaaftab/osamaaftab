@@ -37,6 +37,8 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
+[![Osama's GitHub stats](https://github-readme-stats.vercel.app/api?username=osamaaftab)](https://github.com/osamaaftab/github-readme-stats) 
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
@@ -113,6 +115,10 @@ C#                       1 repo              █░░░░░░░░░░�
  Last Updated on 19/07/2023 23:32:56 UTC
 <!--END_SECTION:waka-->
 
-[![Osama's GitHub stats](https://github-readme-stats.vercel.app/api?username=osamaaftab)](https://github.com/osamaaftab/github-readme-stats) 
+## 🌐Socials
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osama-aftab-2a488059/) 
 
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=osamaaftab&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+---
