@@ -44,7 +44,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 382.2 kB Used in GitHub's Storage 
+> 📦 382.3 kB Used in GitHub's Storage 
  > 
 > 🏆 41 Contributions in the Year 2023
  > 
@@ -81,16 +81,23 @@ Sunday                   16 commits          ████░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+XML                      17 mins             ████████████░░░░░░░░░░░░░   49.97 % 
+Kotlin                   15 mins             ███████████░░░░░░░░░░░░░░   45.23 % 
+Java                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Android Studio           34 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+KidPrint+                14 mins             ██████████░░░░░░░░░░░░░░░   41.97 % 
+android-developer-challen10 mins             ███████░░░░░░░░░░░░░░░░░░   29.71 % 
+Night-Life-E-master      7 mins              █████░░░░░░░░░░░░░░░░░░░░   21.51 % 
+Teya                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+nutmeg-Rx                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      34 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -110,7 +117,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/osamaaftab/osamaaftab/master/assets/bar_graph.png)
 
 
- Last Updated on 21/07/2023 18:37:31 UTC
+ Last Updated on 22/07/2023 18:36:57 UTC
 <!--END_SECTION:waka-->
 
 ## 🌐Socials
