@@ -82,20 +82,16 @@ Sunday                   16 commits          ████░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Markdown                 25 mins             █████████████░░░░░░░░░░░░   50.79 % 
-Gradle                   12 mins             ██████░░░░░░░░░░░░░░░░░░░   23.83 % 
-Groovy                   8 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
-Properties               4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
-Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Android Studio           50 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-argent-tech-test         50 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      50 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Kotlin** 
@@ -115,7 +111,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/osamaaftab/osamaaftab/master/assets/bar_graph.png)
 
 
- Last Updated on 02/08/2023 18:37:02 UTC
+ Last Updated on 03/08/2023 11:00:36 UTC
 <!--END_SECTION:waka-->
 
 ## 🌐Socials
