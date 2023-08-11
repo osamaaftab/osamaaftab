@@ -82,16 +82,21 @@ Sunday                   16 commits          ████░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Kotlin                   30 mins             ██████████████████░░░░░░░   72.37 % 
+XML                      7 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
+Gradle                   3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+Java                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Android Studio           42 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Teya                     37 mins             ██████████████████████░░░   88.08 % 
+nutmeg                   5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      42 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -111,7 +116,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/osamaaftab/osamaaftab/master/assets/bar_graph.png)
 
 
- Last Updated on 10/08/2023 18:37:09 UTC
+ Last Updated on 11/08/2023 18:36:49 UTC
 <!--END_SECTION:waka-->
 
 ## 🌐Socials
