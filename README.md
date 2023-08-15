@@ -37,8 +37,10 @@
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+https://github-readme-stats.vercel.app
 
-[![Osama's GitHub stats](https://github-readme-stats.vercel.app/api?username=osamaaftab)](https://github.com/osamaaftab/github-readme-stats) 
+
+[![Osama's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=osamaaftab)](https://github.com/osamaaftab/github-readme-stats) 
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-69.8%20thousand%20lines%20of%20code-blue)
