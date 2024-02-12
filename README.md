@@ -37,8 +37,6 @@
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-https://github-readme-stats.vercel.app
-
 
 [![Osama's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=osamaaftab)](https://github.com/osamaaftab/github-readme-stats) 
 
