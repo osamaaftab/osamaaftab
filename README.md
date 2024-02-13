@@ -40,6 +40,9 @@
 
 [![Osama's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=osamaaftab)](https://github.com/osamaaftab/github-readme-stats) 
 
+![](https://komarev.com/ghpvc/?username=osamaaftab)
+
+
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-69.8%20thousand%20lines%20of%20code-blue)
 
